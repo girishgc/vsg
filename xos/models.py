@@ -34,7 +34,7 @@ class VSGService(Service):
                           ("bbs_api_port", None),
                           ("bbs_server", None),
                           ("backend_network_label", "hpc_client"),
-                          ("dns_servers", "8.8.8.8"),
+                          ("dns_servers", "172.24.100.50"),
                           ("url_filter_kind", None),
                           ("node_label", None) )
 
